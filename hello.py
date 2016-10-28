@@ -1,1 +1,1 @@
-print("hello world")
+print("Updated stupid alias")
